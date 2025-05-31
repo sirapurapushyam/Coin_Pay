@@ -28,7 +28,7 @@ SET time_zone = "+00:00";
 --
 
 CREATE DATABASE IF NOT EXISTS wallet;
-USE wallet;
+USE wallet;
 
 
 
